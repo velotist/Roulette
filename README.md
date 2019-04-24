@@ -7,7 +7,7 @@ Enter your bet amount. In the following menu you will see the winning possibilit
 
 
 
-![1](Roulette_Screenshot.jpg)
+![1](Roulette_Screenshot.JPG)
 
 
 
